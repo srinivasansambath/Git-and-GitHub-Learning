@@ -1,3 +1,0 @@
-test3.txt text file is created.
-
-New line for testing.
